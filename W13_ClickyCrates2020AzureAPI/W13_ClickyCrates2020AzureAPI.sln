@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickyCratesAPI", "ClickyCratesAPI\ClickyCratesAPI.csproj", "{D59C3537-6C62-4D2B-AFCB-62CA6097660F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D59C3537-6C62-4D2B-AFCB-62CA6097660F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59C3537-6C62-4D2B-AFCB-62CA6097660F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59C3537-6C62-4D2B-AFCB-62CA6097660F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59C3537-6C62-4D2B-AFCB-62CA6097660F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFD4D47B-6A3F-481F-BC46-147E66B96DE4}
+	EndGlobalSection
+EndGlobal
